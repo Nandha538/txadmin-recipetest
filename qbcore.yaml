@@ -1,7 +1,7 @@
 $engine: 3
 $onesync: on
 name: QBCore Framework
-version: 2.1.0
+version: 1
 author: sathyaa
 description: An advanced FiveM RP framework including jobs, gangs, housing & more!
 
